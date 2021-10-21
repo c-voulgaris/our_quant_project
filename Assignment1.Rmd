@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-Here is a good start on the assignment
+Here is a good start on the assignment.
+
+Hi! Here are some changes to the code. I hope you like them. What do you think?
