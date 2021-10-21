@@ -1,0 +1,14 @@
+---
+title: "First assignment"
+author: "Carole Voulgaris"
+date: "10/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Here is a good start on the assignment
